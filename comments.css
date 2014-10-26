@@ -1,0 +1,55 @@
+#comments{line-height:1.4em;margin:10px 0 0;position:relative;background:#fff;padding:70px 20px 20px 20px;border:1px solid #e8e8e8}
+#comments h3{font-size:15px;text-transform:uppercase;font-weight:bold;background:#f5f5f5;color:#666;padding:17px 20px;position:absolute;top:-15px;left:0;right:0}
+#comments h3 .click-comment{float:right;display:inline-block;background:none;padding:0;font-size:100%;color:#666}
+.comment-body-author{background:#0b433f;color:#008000;border:1px dotted #008000;margin:0;padding:0 0 0 10px}
+.comment_share{color:#999999;cursor:pointer;font-size:10px;line-height:1.5em;max-width:100%;font-weight:normal;padding-left:5px}
+#comment_rep a:hover{text-decoration:none;color:#464646!important}
+.comment_avatar{height:50px;width:50px;background:#eee url(http://4.bp.blogspot.com/-1RnVbpU9Vgk/UomWyc8mRfI/AAAAAAAAClw/Wisy-df2plE/s1600/anon45bung.gif) no-repeat;float:left;margin-right:15px;overflow:hidden;padding:0;border-radius:99em}
+.comment_admin .comment_name:after{content:&quot;&quot;;width:0;height:0;position:absolute;top:5px;right:0;border-width:5px;border-style:solid;border-color:#fff transparent transparent transparent;display:block}
+.comment_admin .comment_name:before{content:&quot;&quot;;width:0;height:0;position:absolute;top:7px;right:0;border-width:5px;border-style:solid;border-color:#555 transparent transparent transparent;display:block}
+.comment_name{color:#4a5764;font-size:15px;font-weight:normal;max-width:100%;text-decoration:none;margin:5px 0 0;text-transform:none;font-weight:normal;position:relative}
+.comment-menu{float:right;list-style:none;width:0;height:0}
+.comment_name a{text-transform:none;font-size:13px;color:#333;text-decoration:none;font-family:Arial,Sans-Serif;font-weight:700}
+.comment_name a:hover{text-decoration:underline}
+.comment_body p{font-size:100%;line-height:1.4em;margin:0;padding:0 0 15px}
+.comment_body{margin-left:68px;padding:5px 15px 30px;position:relative;background:#fff;color:#666;font-size:13px;border:1px solid #e8e8e8}
+.comment_body:after{content:&quot;&quot;;width:0;height:0;position:absolute;top:0;right:100%;border-width:7px;border-style:solid;border-color:#fff #fff transparent transparent;display:block}
+.comment_body:before{content:&quot;&quot;;width:0;height:0;position:absolute;top:-1px;left:-17px;border-width:8px;border-style:solid;border-color:#e8e8e8 #e8e8e8 transparent transparent;display:block}
+.comment_intime{float:left;margin:10px 0;position:absolute;color:#aaa;bottom:0;left:15px}
+#comment_box{padding:0;background:none;position:relative;margin:20px 0}
+.comment-delete img{float:left;border:1px solid #e8e8e8;border-radius:2px;padding:1px 8px}
+.comment_date{color:#aaa;font-size:11px;line-height:25px;cursor:pointer;font-weight:bold}
+#comments .separate{color:#fff;font-size:15px;line-height:40px;padding-left:5px;padding-right:5px}
+#comments .author-mark{background:#d2d2d2;color:white;border-radius:0;padding:2px 6px 2px 6px;font-size:15px;line-height:15px}
+.comment-share{display:inline}
+.comment-share li{display:inline}
+.comment-share li.button a{background:#546472;color:white;padding:0 5px 2px 5px;border-radius:0;display:none}
+.comment-share li.button:hover a{background:#272f37}
+#comment_rep{margin-top:-27px;float:right}
+.comment_child .comment_body{}
+.comment_child .comment_wrap{padding-left:40px}
+.comment_reply{cursor:pointer;font-size:11px;line-height:1.5em;font-weight:400;padding:2px 14px;float:right;list-style:none;margin-right:20px;color:#aaa}
+.comment_admin .avatar-image-container{}
+.unneeded-paging-control{display:none}
+.comment-form{max-width:100%!important;margin-top:-15px!important}
+.comment_reply_form .comment-form{width:100%}
+.comment_youtube{max-width:100%!important;width:400px;height:225px;display:block;padding-top:10px;padding-bottom:10px}
+#respond{overflow:hidden;padding-left:10px;clear:both}
+.comment_avatar *{max-width:100%!important;display:block;max-height:100%!important;width:50px!important;height:50px!important;margin-right:15px}
+.comment_child .comment_avatar,.comment_child .comment_avatar *{width:35px!important;height:35px!important;float:left;margin-right:5px;border-radius:3px}
+.comment_form a{color:#2f6986;text-decoration:none}
+.comment_form a:hover{color:#2f6986;text-decoration:underline}
+.comment_author_flag{display:none}
+.comment_admin .comment_author_flag{display:inline;background:none;font-size:16px;padding:0;margin-left:4px;color:#62afe7;text-transform:uppercase}
+#comment-editor{width:100%!important;background:#e1e3e6 url(&#39;http://4.bp.blogspot.com/-TIf6ayZW9R4/UkxBo2beCQI/AAAAAAAAFsA/XR2DBWD3YG4/s1600/kangis-loader.gif&#39;) no-repeat 50% 30%;margin-bottom:20px;position:relative}
+.comment-form{max-width:100%!important}
+.comment_arrow{display:block;position:relative;margin:0;padding:0}
+.comment_emo_list .item{float:left;width:40px;text-align:center;height:40px;margin:10px 10px 0 0}
+.comment_emo_list span{display:block;font-weight:bold;font-size:11px;letter-spacing:1px}
+.comment_youtube{max-width:100%!important;width:400px;height:225px;display:block;margin:auto}
+.comment_img{max-width:100%!important}
+.deleted-comment{background:#fff url(http://4.bp.blogspot.com/-Yj5ewidrX5Q/UkrG9s3fS5I/AAAAAAAAFrQ/rhhaMJwHDoc/s1600/tempat-sampah.png) no-repeat 2% 50%;color:#ccc;line-height:22px;padding:8px 15px 8px 45px;margin:5px 0;display:block;border:1px solid #e8e8e8;position:relative;font-size:13px}
+.comment-form p{background:#e74530;padding:15px 15px 14px 15px;margin:45px 0 5px 0;color:#fff;font-size:13px;line-height:20px;font-weight:700}
+#postCommentSubmit{padding:10px!important}
+#allHolder{border:none!important}
+.thanks{font-size:12px;right:27px;margin-top:-68px;padding:6px 12px;background:#f8f8f8;color:#999;border:1px solid #c9cacb;border-radius:3px;position:absolute}
