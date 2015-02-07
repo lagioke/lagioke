@@ -1,0 +1,21 @@
+@font-face{{font-family:&#39;Open Sans&#39;;font-style:normal;font-weight:400;src:local(&#39;Open Sans&#39;),local(&#39;OpenSans&#39;),url(//fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf) format(&#39;truetype&#39;)}}
+@font-face{{font-family:&#39;Open Sans&#39;;font-style:normal;font-weight:700;src:local(&#39;Open Sans Bold&#39;),local(&#39;OpenSans-Bold&#39;),url(//fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs.ttf) format(&#39;truetype&#39;)}}
+@font-face{{font-family:&#39;Open Sans&#39;;font-style:italic;font-weight:400;src:local(&#39;Open Sans Italic&#39;),local(&#39;OpenSans-Italic&#39;),url(//fonts.gstatic.com/s/opensans/v10/xjAJXh38I15wypJXxuGMBp0EAVxt0G0biEntp43Qt6E.ttf) format(&#39;truetype&#39;)}}
+@font-face{{font-family:&#39;Open Sans&#39;;font-style:italic;font-weight:700;src:local(&#39;Open Sans Bold Italic&#39;),local(&#39;OpenSans-BoldItalic&#39;),url(//fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxp_TkvowlIOtbR7ePgFOpF4.ttf) format(&#39;truetype&#39;)}}
+@font-face{font-family:&#39;Yanone Kaffeesatz&#39;;font-style:normal;font-weight:400;src:local(&#39;Yanone Kaffeesatz Regular&#39;),local(&#39;YanoneKaffeesatz-Regular&#39;),url(http://fonts.gstatic.com/s/yanonekaffeesatz/v7/YDAoLskQQ5MOAgvHUQCcLV83L2yn_om9bG0a6EHWBso.woff2) format(&#39;woff2&#39;);unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:&#39;Yanone Kaffeesatz&#39;;font-style:normal;font-weight:400;src:local(&#39;Yanone Kaffeesatz Regular&#39;),local(&#39;YanoneKaffeesatz-Regular&#39;),url(http://fonts.gstatic.com/s/yanonekaffeesatz/v7/YDAoLskQQ5MOAgvHUQCcLcd1d68IHFKI_qxdvoxWsfE.woff2) format(&#39;woff2&#39;);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(http://fonts.gstatic.com/s/oswald/v10/yg0glPPxXUISnKUejCX4qfesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(http://fonts.gstatic.com/s/oswald/v10/pEobIV_lL25TKBpqVI_a2w.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
